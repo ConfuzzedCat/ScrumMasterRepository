@@ -1,5 +1,6 @@
 # ScrumMasterRepository
 
+// Gruppe Z 
 User Story 1: Creation and Assignment of Users and Permissions
 
 Given: An administrator is logged into the system.
