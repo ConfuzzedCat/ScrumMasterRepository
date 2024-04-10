@@ -47,13 +47,13 @@
 
 - Given timestamps for all employees are recorded, Then I should be able to extract a list of employees and their timestamps for control of working hours and fraud prevention.
 
-## 7. As a manager, I want to be able to set an hourly wage for each employee, so that I can calculate payments based on their working hours.
+## 6. As a manager, I want to be able to set an hourly wage for each employee, so that I can calculate payments based on their working hours.
 
 ### Acceptance:
 
 - Only a manager or above should be able to set the hourly wage for an employee.
 
-## 8. As a manager, I want the system to calculate payments for employees based on their recorded working hours and set hourly wage, so that I can accurately compensate employees for their work.
+## 7. As a manager, I want the system to calculate payments for employees based on their recorded working hours and set hourly wage, so that I can accurately compensate employees for their work.
 
 ### Acceptance:
 
