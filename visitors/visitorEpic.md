@@ -1,9 +1,9 @@
-Visitor behaviour
+# Visitor behaviour
 
-Summary:
+## Summary:
 This epic is concerned with every function that is available to visitors, meaning users who are not already signed up to GVS’s services. 
 
-User stories: 
+## User stories: 
 As a visitor I want to be met by a simple and welcoming page that shows the purpose of GVS and provides a possibility to read user reviews, so that I get an initial level of understanding and trust towards GVS and its services. 
 
 As a visitor I want to be able to create an account for my company, so that I am able to use GVS’s services.
@@ -14,7 +14,7 @@ As a visitor I want to be able to see a tutorial of how the system is used/ an o
 
 As a visitor I want to be able to contact GVS with questions, queries and feedback, so that my questions, concerns, etc. can be addressed before becoming a member. 
 
-Glossary: 
+## Glossary: 
 Visitor
 Welcome page
 Reviews
@@ -27,7 +27,7 @@ Questions
 Queries
 Feedback
 
-Acceptance criteria:
+## Acceptance criteria:
 1. Given the visitor is not already signed up, when entering the welcome page, then he is met with a simple and welcoming design.
 1. Given the visitor is not already signed up, when entering the welcome page, then he is able to read reviews from existing users.
 
