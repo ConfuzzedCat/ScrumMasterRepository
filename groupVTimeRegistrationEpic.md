@@ -1,5 +1,7 @@
 # EPIC: Time Registration and payment system
 
+[Figma](https://www.figma.com/file/BlTDzZWpK9gtXc3ykFKBzj/Prototype-sys?type=design&node-id=0%3A1&mode=design&t=TFDN3ABhmAk5PRDy-1)
+
 # Glossary
 
 | Term      | Description                                                             |
@@ -62,3 +64,6 @@ different time periods.
 - Given the calculated payments for a specified time period, when accessed by a user, then the system should clearly display the total amount owed to each employee.
 - Given the need to generate payment reports, when using the system, then it should offer the capability to produce reports for individual employees and for all employees collectively.
 - Given the requirement to initiate payment calculations and view payment reports, when accessing the system, then only users with manager-level permissions or higher should have access to these functionalities.
+
+
+
