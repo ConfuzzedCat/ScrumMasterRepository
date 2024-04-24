@@ -29,14 +29,15 @@ As a visitor I want to be able to contact GVS with questions, queries and feedba
 
 ## Acceptance criteria:
 - US-1. Given the visitor is not already signed up, when entering the welcome page, then he is met with a simple and welcoming design.
+
 - US-1. Given the visitor is not already signed up, when entering the welcome page, then he is able to read reviews from existing users.
 
 - US-2. Given the visitor does not already have a user, when pressing the sign-up button, then the visitor will be redirected to a sign-up page.
 
-- US-2. Given the visitor entering the sign-up page, when filling out the sign-up form, and presses sign-up. Then the information shall be stored, and the new user is redirected to the company’s admin page.
+- US-2. Given the visitor is on the sign-up page and not signed in, when pressing the sign-up button after having filled out the sign up information needed. Then the input is validated in GVS' system and external sources. And Then an account for the company is made and stored information is stored in GVS' system for later use. And Then the administrator of the company is redirected to the company page. 
 
-- US-3. Given the visitor is at the welcome page, when entering the pricing page, then the visitor is able to check the prices of the services.
+- US-3. Given the visitor is at the welcome page, When pressing the "Products" link, Then the visitor is redirected to a product page, And Then the visitor is able to check the prices of the services.
 
-- US-4. Given the visitor wishes to learn the basics of how to use the GVS services. When the visitor presses the tutorial button.Then the visitor is redirected to a tutorial on how to use the different services of the GVS product.
+- US-4. Given the visitor is on any page. When the visitor presses the tutorial link. Then the visitor is redirected to a tutorial page that contains information and videos on how to use the different services of the GVS product.
  
-- US-5. Given that the visitor wants to ask questions, queries or give feedback, when accessing the contact page, then the visitor is able to make contact with GVS.
+- US-5. Given the visitor is on any page. When accessing the contact page, then the visitor is able to contact GVS regarding questions, queries and feedback through the following methods: Live chat system, send email and register for a "Want to receive a phone call" queue.
