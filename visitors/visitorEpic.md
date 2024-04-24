@@ -28,15 +28,15 @@ As a visitor I want to be able to contact GVS with questions, queries and feedba
 - Feedback
 
 ## Acceptance criteria:
-1. Given the visitor is not already signed up, when entering the welcome page, then he is met with a simple and welcoming design.
-1. Given the visitor is not already signed up, when entering the welcome page, then he is able to read reviews from existing users.
+- US-1. Given the visitor is not already signed up, when entering the welcome page, then he is met with a simple and welcoming design.
+- US-1. Given the visitor is not already signed up, when entering the welcome page, then he is able to read reviews from existing users.
 
-2. Given the visitor does not already have a user, when pressing the sign-up button, then the visitor will be redirected to a sign-up page.
+- US-2. Given the visitor does not already have a user, when pressing the sign-up button, then the visitor will be redirected to a sign-up page.
 
-2. Given the visitor entering the sign-up page, when filling out the sign-up form, and presses sign-up. Then the information shall be stored, and the new user is redirected to the company’s admin page.
+- US-2. Given the visitor entering the sign-up page, when filling out the sign-up form, and presses sign-up. Then the information shall be stored, and the new user is redirected to the company’s admin page.
 
-3. Given the visitor is at the welcome page, when entering the pricing page, then the visitor is able to check the prices of the services.
+- US-3. Given the visitor is at the welcome page, when entering the pricing page, then the visitor is able to check the prices of the services.
 
-4. Given the visitor wishes to learn the basics of how to use the GVS services. When the visitor presses the tutorial button.Then the visitor is redirected to a tutorial on how to use the different services of the GVS product.
+- US-4. Given the visitor wishes to learn the basics of how to use the GVS services. When the visitor presses the tutorial button.Then the visitor is redirected to a tutorial on how to use the different services of the GVS product.
  
-5. Given that the visitor wants to ask questions, queries or give feedback, when accessing the contact page, then the visitor is able to make contact with GVS.
+- US-5. Given that the visitor wants to ask questions, queries or give feedback, when accessing the contact page, then the visitor is able to make contact with GVS.
