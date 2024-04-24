@@ -31,13 +31,13 @@
 
 - I can see an overview of my working hours for different time periods based on punch-in and punch-out timestamps.
 - I should be able to see what I have earned based on my hourly wage and working hours.
-- I should be able to see which ours have been paid and which are still pending.
+- I should be able to see which hours have been paid and which are still pending.
 
 ## 4. As a manager, I want to be able to handle employees' punch-in and punch-out times for administrative purposes.
 
 ### Acceptance:
 
-- I can interact with individual timestamps for each employee for administrative tasks.
+- I can interact with individual timestamps for each employee for administrative crud tasks.
 - Only a manager or above should be able to view and register timestamps for all employees.
 - Given the manager has enlisted employees, when they want to verify timestamps for an individual employee, then they have rights to view and register timestamps for all their employees
 
