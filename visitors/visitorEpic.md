@@ -15,17 +15,17 @@ As a visitor I want to be able to see a tutorial of how the system is used/ an o
 As a visitor I want to be able to contact GVS with questions, queries and feedback, so that my questions, concerns, etc. can be addressed before becoming a member. 
 
 ## Glossary: 
-Visitor
-Welcome page
-Reviews
-Company
-Account
-Price points
-Tutorial
-Contact GVS
-Questions
-Queries
-Feedback
+- Visitor
+- Welcome page
+- Reviews
+- Company
+- Account
+- Price points
+- Tutorial
+- Contact GVS
+- Questions
+- Queries
+- Feedback
 
 ## Acceptance criteria:
 1. Given the visitor is not already signed up, when entering the welcome page, then he is met with a simple and welcoming design.
