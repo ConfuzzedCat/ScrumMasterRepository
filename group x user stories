@@ -1,5 +1,8 @@
 # Company (manager)
 
+## Summery
+This project is a company manager tool that allows the manager to manage the employees in the company. The manager can assign shifts, change roles, approve shift swapping, and remove shifts. The manager can also display the information of individual employees. The manager has a unique login to the system that enables them to make changes to the employees in the company. 
+
 ### Glosery
 ---
 #### Manager: 
