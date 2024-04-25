@@ -1,6 +1,11 @@
 # Group R - Class B - Employee
 
+## Short description and summary
+
 Short description of this Epic: **Employee is the customer’s employees.**
+
+Summary:
+This Epic focuses on employees within the customer of GVS. It introduces features such as viewing shift overviews, selling shifts, flagging shifts for attention, trading shifts with colleagues, requesting available shifts, and tracking total hours worked. These functionalities aim to empower employees to efficiently manage their schedules while ensuring coverage and flexibility in shift arrangements.
 
 [Figma Wireframe](https://www.figma.com/file/HP6q9ZMzGzcP7QbLuuagoz/GVS-Employee-Wireframe?type=design&node-id=0-1&mode=design&t=UBH1B2rOPIuu0Mh0-0)
 
