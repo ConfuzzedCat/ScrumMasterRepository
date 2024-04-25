@@ -1,5 +1,9 @@
 # EPIC: Time Registration and payment system
 
+## Summary
+
+This epic covers the development of time registration and payment systems that will allow employees to register their working hours by punching in and out. The system will also enable managers to view and register timestamps for all employees, set hourly wages, and calculate payments based on recorded working hours and hourly wages.
+
 [Figma](https://www.figma.com/file/BlTDzZWpK9gtXc3ykFKBzj/Prototype-sys?type=design&node-id=0%3A1&mode=design&t=TFDN3ABhmAk5PRDy-1)
 
 # Glossary
@@ -32,7 +36,7 @@
 ### Acceptance:
 
 - Given I have logged my work hours by punching in and out, when I access the system, then I expect to view a summary of my working hours categorized by
-different time periods.
+  different time periods.
 - Given my hourly wage and recorded working hours, when I access the system, then I expect to see a calculation of my earnings.
 - Given recorded working hours and payment status, when I access the system, then I expect to differentiate between paid hours and pending hours.
 
@@ -64,6 +68,3 @@ different time periods.
 - Given the calculated payments for a specified time period, when accessed by a user, then the system should clearly display the total amount owed to each employee.
 - Given the need to generate payment reports, when using the system, then it should offer the capability to produce reports for individual employees and for all employees collectively.
 - Given the requirement to initiate payment calculations and view payment reports, when accessing the system, then only users with manager-level permissions or higher should have access to these functionalities.
-
-
-
